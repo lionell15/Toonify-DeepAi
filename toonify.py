@@ -15,7 +15,7 @@ import io
 width=600
 height=600
 dim=(width, height)
-api_key= "7666239e-5d9d-4aef-a8a6-36bcefea19e6"
+api_key= "PUT_YOUR_API_KEY"
 api_url = "https://api.deepai.org/api/toonify"
 def select_image(): 
     global panelA, panelB
